@@ -6,7 +6,7 @@
 ## 🔗 Links
 📍 Quezon City, Philippines | ✉️ [flocarenciaarcadiojr@gmail.com](mailto:flocarenciaarcadiojr@gmail.com) | 📞 +63 9270050401
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://arcadio-locarencia-portfolio.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://arcadio-flocarencia-portfolio.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arcadio-jr-flocarencia-78a1952a2/)
 
 
