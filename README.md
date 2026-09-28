@@ -3,8 +3,6 @@
 # Arcadio Jr. Flocarencia
 ### **Associate Software Engineer & Full-Stack Developer**
 
-📍 Quezon City, Philippines &nbsp;&nbsp;|&nbsp;&nbsp; ✉️ [flocarenciaarcadiojr@gmail.com](mailto:flocarenciaarcadiojr@gmail.com) &nbsp;&nbsp;|&nbsp;&nbsp; 📞 +63 9270050401
-
 <p align="center">
   <a href="https://arcadio-flocarencia-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
